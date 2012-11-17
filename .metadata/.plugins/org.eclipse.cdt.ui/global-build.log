@@ -1,0 +1,48 @@
+13:42:46 **** Build of configuration Debug for project Working ****
+make all 
+Building file: ../Working.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"Working.d" -MT"Working.d" -o "Working.o" "../Working.cpp"
+Finished building: ../Working.cpp
+ 
+Building target: Working
+Invoking: GCC C++ Linker
+g++  -o "Working"  ./Working.o   
+Finished building target: Working
+ 
+13:42:52 **** Incremental Build of configuration Debug for project Working ****
+make all 
+make: Nothing to be done for `all'.
+13:44:23 **** Incremental Build of configuration Debug for project Working ****
+make all 
+make: Nothing to be done for `all'.
+13:44:46 **** Incremental Build of configuration Debug for project Working ****
+make all 
+make: Nothing to be done for `all'.
+13:55:22 **** Incremental Build of configuration Debug for project Working ****
+make all 
+Building file: ../Working.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"Working.d" -MT"Working.d" -o "Working.o" "../Working.cpp"
+Finished building: ../Working.cpp
+ 
+Building target: Working
+Invoking: GCC C++ Linker
+g++  -o "Working"  ./Working.o   
+Finished building target: Working
+ 
+13:56:45 **** Incremental Build of configuration Debug for project Working ****
+make all 
+Building file: ../Working.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"Working.d" -MT"Working.d" -o "Working.o" "../Working.cpp"
+Finished building: ../Working.cpp
+ 
+Building target: Working
+Invoking: GCC C++ Linker
+g++  -o "Working"  ./Working.o   
+Finished building target: Working
+ 
+13:58:04 **** Incremental Build of configuration Debug for project Working ****
+make all 
+make: Nothing to be done for `all'.
