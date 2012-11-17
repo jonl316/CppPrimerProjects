@@ -1,6 +1,15 @@
-13:58:04 **** Incremental Build of configuration Debug for project Working ****
+15:34:37 **** Incremental Build of configuration Debug for project Working ****
 make all 
-make: Nothing to be done for `all'.
+Building file: ../Example1_4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"Example1_4_4.d" -MT"Example1_4_4.d" -o "Example1_4_4.o" "../Example1_4_4.cpp"
+Finished building: ../Example1_4_4.cpp
+ 
+Building target: Working
+Invoking: GCC C++ Linker
+g++  -o "Working"  ./Example1_4_4.o   
+Finished building target: Working
+ 
 
-13:58:04 Build Finished (took 135ms)
+15:34:38 Build Finished (took 1s.462ms)
 
