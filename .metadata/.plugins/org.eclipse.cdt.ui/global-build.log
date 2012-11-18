@@ -58,3 +58,9 @@ Invoking: GCC C++ Linker
 g++  -o "Working"  ./Example1_4_4.o   
 Finished building target: Working
  
+19:21:54 **** Build of configuration Debug for project Working ****
+make all 
+make: Nothing to be done for `all'.
+19:22:07 **** Incremental Build of configuration Debug for project Working ****
+make all 
+make: Nothing to be done for `all'.
